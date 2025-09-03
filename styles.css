@@ -1,13 +1,13 @@
 /* Simple, clean styling for the HTML-only solution */
 
 :root {
-  --bg: #f6f8fb;
+  --bg: #ffbc00;
   --card-bg: #ffffff;
-  --text: #1f2937;
-  --muted: #6b7280;
-  --primary: #2563eb;
-  --primary-hover: #1d4ed8;
-  --border: #e5e7eb;
+  --text: #6b2a01;
+  --muted: #6b2a01;
+  --primary: #ff8800;
+  --primary-hover: #6b2a01;
+  --border: #6b2a01;
 }
 
 * { box-sizing: border-box; }
@@ -52,7 +52,7 @@ h1 {
 .nav a {
   text-decoration: none;
   color: var(--primary);
-  background: #eef2ff;
+  background: #fff7d9;
   padding: 8px 12px;
   border-radius: 8px;
   border: 1px solid #e0e7ff;
